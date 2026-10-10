@@ -1,0 +1,1 @@
+console.log('SourceLens background service worker started');
